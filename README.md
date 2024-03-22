@@ -4,12 +4,18 @@
 
 In the project directory, you can run:
 
-### frist you should run: `npm install` to install all dependencies
+### 1. Install Dependencies
 
-### then run: `npm start`
+Before running the app, you need to install all dependencies. Run the following command:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+bash: `npm install`
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### 2. Start the Development Server
+
+Once the dependencies are installed, you can start the development server by running:
+
+bash: `npm start`
+
+## Live Demo
+
+To see a live demo of the deployed app, visit `https://quizzical-react-app-nine.vercel.app/`.
