@@ -1,21 +1,35 @@
-# Getting Started with QUIZZICAL REACT APP
+# Quizzical App
 
-## Available Scripts
+Quizzical is an interactive quiz application built with **React.js**.
+It lets users start a quiz of 5 random questions, choose their answers, and get their score instantly after submitting.
 
-In the project directory, you can run:
+## Features
 
-### 1. Install Dependencies
+* 🎯 Start a quiz with 5 questions
+* 🧠 Select and review answers
+* 📊 Submit and view your final score
+* ⚡ Built using React hooks and functional components
 
-Before running the app, you need to install all dependencies. Run the following command:
+## Tech Stack
 
-bash: `npm install`
+* React.js
+* HTML5 & CSS3
+* JavaScript (ES6+)
 
-### 2. Start the Development Server
+## How to Run
 
-Once the dependencies are installed, you can start the development server by running:
+1. Clone the repository
 
-bash: `npm start`
+   ```bash
+   git clone https://github.com/yourusername/quizzical-app.git
+   ```
+2. Install dependencies
 
-## Live Demo
+   ```bash
+   npm install
+   ```
+3. Start the development server
 
-To see a live demo of the deployed app, visit `https://quizzical-react-app-nine.vercel.app/`.
+   ```bash
+   npm start
+   ```
