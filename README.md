@@ -3,6 +3,10 @@
 Quizzical is an interactive quiz application built with **React.js**.
 It lets users start a quiz of 5 random questions, choose their answers, and get their score instantly after submitting.
 
+## 🎮 Live Demo
+
+👉 [quizzical-react-app-nine.vercel.app](https://quizzical-react-app-nine.vercel.app)
+
 ## Features
 
 * 🎯 Start a quiz with 5 questions
